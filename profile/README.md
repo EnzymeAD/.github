@@ -10,4 +10,4 @@ The Enzyme project is a tool which takes arbitrary existing code as LLVM IR, and
 
 🚀 Have a look at the [Installation Guide](https://enzyme.mit.edu/Installation/), and [Using Enzyme](https://enzyme.mit.edu/getting_started/UsingEnzyme/) as well as further documentation on the [website](https://enzyme.mit.edu).
 
-🤖 Try out Enzyme interactively in its very own [Compiler Explorer]() instance.
+🤖 Try out Enzyme interactively in its very own [Compiler Explorer]() instance!
