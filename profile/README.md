@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-The Enzyme project is a tool which takes arbitrary existing code as LLVM IR, and computes its derivative. This allows developers to use Enzyme to automatically create gradients of their source code without much additional work. By working at the LLVM level Enzyme is able to differentiate programs in a variety of languages (C, C++, Swift, Julia, Rust, Fortran, Python, etc.) in a single tool utilizing LLVM's highly developed optimization pipeline. We are always looking to help developers to get started with Enzyme, and help them integrate gradients into their applications.
+The Enzyme project is a tool which takes arbitrary existing code as LLVM and MLIR, and computes its derivative. This allows developers to use Enzyme to automatically create gradients of their source code without much additional work. By working at the LLVM level Enzyme is able to differentiate programs in a variety of languages (C, C++, Swift, Julia, Rust, Fortran, Python, etc.) in a single tool utilizing LLVM's highly developed optimization pipeline. We are always looking to help developers to get started with Enzyme, and help them integrate gradients into their applications.
 
 ### Getting Involved
 
